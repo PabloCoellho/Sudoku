@@ -10,11 +10,11 @@ Para jogar o Sudoku, siga estas etapas:
 1. Clone este repositório para o seu ambiente local.
 
 2. Compile os arquivos sudoku.c e funcoes.c usando o seguinte comando:
-      gcc sudoku.c funcoes.c -o sudoku
+      `gcc sudoku.c funcoes.c -o sudoku`
   Isso criará um arquivo executável chamado 'sudoku'.
 
 3. Execute o arquivo 'sudoku':
-      ./sudoku
+      `./sudoku`
 
 4. O programa solicitará o arquivo de texto que contém o jogo. No repositório, há um exemplo chamado 'jogo.txt'.
 No arquivo de texto 'jogo.txt', o tabuleiro é criado com os números correspondentes, e os locais com "0" são os espaços a serem preenchidos durante o jogo.
