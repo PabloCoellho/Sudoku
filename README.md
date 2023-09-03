@@ -11,6 +11,7 @@ Para jogar o Sudoku, siga estas etapas:
 
 2. Compile os arquivos sudoku.c e funcoes.c usando o seguinte comando:
       `gcc sudoku.c funcoes.c -o sudoku`
+
 Isso criará um arquivo executável chamado 'sudoku'.
 
 3. Execute o arquivo 'sudoku':
