@@ -21,6 +21,7 @@ Para jogar o Sudoku, siga estas etapas:
 No arquivo de texto 'jogo.txt', o tabuleiro é criado com os números correspondentes, e os locais com "0" são os espaços a serem preenchidos durante o jogo.
 
 5. Após indicar o arquivo de texto com o jogo, você pode fazer alterações no tabuleiro. Digite a célula que deseja alterar, seguida pelo valor que deseja adicionar à célula.
-Por exemplo, ao digitar "119", o programa acessará a célula na linha 1 e na coluna 1 e adicionará o valor 9.
+
+      Por exemplo, ao digitar "119", o programa acessará a célula na linha 1 e na coluna 1 e adicionará o valor 9.
 
 6. Quando desejar, você pode digitar o comando "salvar" para salvar o tabuleiro atual ou "sair" para encerrar a execução do programa.
