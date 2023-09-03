@@ -5,7 +5,7 @@ Este repositório contém um algoritmo para jogar e resolver o Sudoku, desenvolv
 Este algoritmo permite que os usuários joguem e resolvam tabuleiros do Sudoku interativamente.
 
 ### Como Usar
-Para jogar o Sudoku interativamente, siga estas etapas:
+Para jogar o Sudoku, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local.
 
