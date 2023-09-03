@@ -1,5 +1,5 @@
 # Sudoku Game
-Este repositório contém um algoritmo para jogar e resolver o Sudoku, desenvolvido como trabalho prático final na disciplina de Introdução a Programação.
+Este repositório contém um algoritmo em C para jogar e resolver o Sudoku, desenvolvido como trabalho prático final na disciplina de Introdução a Programação.
 
 ### Descrição
 Este algoritmo permite que os usuários joguem e resolvam tabuleiros do Sudoku interativamente.
